@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\ejercio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|solutionrelative:ejercio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\ejercio2\\sistemadereservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|solutionrelative:ejercio2\\sistemadereservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|c:\\users\\guill\\onedrive\\documentos\\suma y multiplicacion de arreglos\\reservaciones\\ejercio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|solutionrelative:ejercio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\ejercio2\\imagen\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7AAB6AE-1CF4-44C9-876D-7BE619A7B9FC}|Ejercio2\\Ejercio2.csproj|solutionrelative:ejercio2\\imagen\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\Form1.cs",
+              "RelativeToolTip": "Ejercio2\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:54:34.117Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\imagen\\TextFile1.txt",
+              "RelativeDocumentMoniker": "Ejercio2\\imagen\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\imagen\\TextFile1.txt",
+              "RelativeToolTip": "Ejercio2\\imagen\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-16T01:24:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaDeReservaciones.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\SistemaDeReservaciones.cs",
+              "RelativeDocumentMoniker": "Ejercio2\\SistemaDeReservaciones.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\SistemaDeReservaciones.cs",
+              "RelativeToolTip": "Ejercio2\\SistemaDeReservaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:08:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\SUma y multiplicacion de arreglos\\reservaciones\\Ejercio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:06:18.791Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

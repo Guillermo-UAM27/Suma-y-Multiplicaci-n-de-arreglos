@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\bin\Debug\Ejercio2.exe.config
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\bin\Debug\Ejercio2.exe
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\bin\Debug\Ejercio2.pdb
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.Form1.resources
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.exe
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\reservaciones\Ejercio2\obj\Debug\Ejercio2.pdb

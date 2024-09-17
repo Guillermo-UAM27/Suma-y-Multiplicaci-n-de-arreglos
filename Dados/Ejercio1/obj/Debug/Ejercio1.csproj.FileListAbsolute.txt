@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.Form1.resources
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\bin\Debug\Ejercio1.exe.config
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\bin\Debug\Ejercio1.exe
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\bin\Debug\Ejercio1.pdb
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.exe
+C:\Users\guill\OneDrive\Documentos\SUma y multiplicacion de arreglos\Dados\Ejercio1\obj\Debug\Ejercio1.pdb
